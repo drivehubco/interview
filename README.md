@@ -46,5 +46,5 @@ If you can't access or not receive the mail, please contact us (developers@drive
 
 ### Project Submission Instructions
 - Please create two separate repositories, one for the frontend and another for the backend.
-- After completing the test, kindly reply to this email with the URLs of both repositories.
+- After completing the test, kindly reply to email with the URLs of both repositories.
 
